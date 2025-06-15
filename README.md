@@ -1,6 +1,4 @@
 # 基于BQ40Z50电池电量计(Gas Gauge Based on BQ40Z50)
->特别说明: 本项目仅用于个人开发学习
-
 ![实物图](./4.Docs/Pic/GasGauge1.png)
 
 ## 0. 关于本项目
